@@ -1,0 +1,14 @@
+@charset: "utf8";
+
+	boby{
+	 background-color:#ccc;
+	 	
+	}
+	ul {
+		
+		list-style-type:none;
+		width:150;
+		helght:300;
+		background-color:;
+		border:1px solid #000;
+	}

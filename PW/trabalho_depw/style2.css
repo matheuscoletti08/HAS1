@@ -1,0 +1,27 @@
+body{
+	background-color:#C472E6;
+	
+}
+h1{
+	text-align: center;
+	font-size: 36px;
+    color: #f9f9f9;
+    font-family: 'Verdana';
+    text-transform: uppercase;
+    
+}
+h2{
+	text-align: center;
+	font-size: 24px;
+    color: #00000;
+    font-family: 'Arial';
+    
+}
+p{
+	font-family: 'Arial';
+	font-size: 19px;
+	color: #020302;
+}
+main{
+	text-align: center;
+}

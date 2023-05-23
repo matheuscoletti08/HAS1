@@ -1,0 +1,10 @@
+o comando "switch" é similar ao "if encadeado", é mais simples, mas só trata equivalencias 
+
+/*
+EXERCICIOS:
+1 - Dado um numero digitado pelo usuário, mostrar o dia da semana correspondente
+2 - Dado um numero digitado pelo usuário, mostrar o mês correspondente
+3 - Dados dois valores e um sinal (+, -, * ou /) efetuar o calculo correspondente
+4 - Dada uma letra, informar se ela é vogal ou consoante
+*/
+12
