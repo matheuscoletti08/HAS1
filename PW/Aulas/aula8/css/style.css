@@ -1,0 +1,29 @@
+
+*{
+    padding: 0px;
+    margin: 0px;
+}
+
+#xadrez{
+    width: 800px;
+    height: 800px;
+    background-color: black;
+}
+
+div{
+    width: 100px;
+    height: 100px;
+    float: left;
+}
+
+.branco{
+    width: 100px;
+    height: 100px;
+    background-color: white;
+}
+
+img{
+    margin: 4px 4px 4px 4px;
+    width: 90px;
+    height: 90px;
+}
